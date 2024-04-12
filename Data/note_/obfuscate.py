@@ -1,6 +1,4 @@
-__obfuscate__ = 'Vindra Ganz'
-__madeBy__ = 'Hellow word'
-__git__ = 'https://github.com/Dra-ID/Brutal-Spam'
+
 
 # Obfuscated with cange
 
