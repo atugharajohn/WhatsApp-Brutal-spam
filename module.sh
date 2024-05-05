@@ -1,3 +1,4 @@
+
 pip install requests
 pip install beautifulsoup4
 pip install datetime
@@ -6,7 +7,7 @@ pip install colorama
 pip install pyfiglet
 pip install tqdm
 pip install inquirer
+pip install croma
 
 sleep 3
-
 python run.py
